@@ -1,1 +1,10 @@
-hello
+mkdir SoftDevI
+cd SoftDevI
+mkdir Unit01
+cd Unit01
+nano ~/SoftDev1/Unit01/text.txt
+cp file01.txt file02.txt
+mkdir Assingment01
+ cd Assingment01
+ mkdir Deven 
+ cd Deven
