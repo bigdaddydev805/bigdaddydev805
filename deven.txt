@@ -8,3 +8,11 @@ mkdir Assingment01
  cd Assingment01
  mkdir Deven 
  cd Deven
+sudo /Users/bigdaddydev/SoftDev1/Unit01/file01.txt /Users/bigdaddydev/SoftDev1/Unit01/Assingment01/Deven
+open file02.txt
+cd
+ cd SoftDev1
+ cd Unit01
+rm -r /Users/bigdaddydev/SoftDev1/Unit01/Assingment01
+
+ 
