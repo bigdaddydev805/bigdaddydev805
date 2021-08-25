@@ -8,7 +8,7 @@ mkdir Assingment01
  cd Assingment01
  mkdir Deven 
  cd Deven
-sudo mv /Users/bigdaddydev/SoftDev1/Unit01/file01.txt /Users/bigdaddydev/SoftDev1/Unit01/Assingment01/Deven
+sudo mv /Users/bigdaddydev/SoftDev1/Unit01/file02.txt /Users/bigdaddydev/SoftDev1/Unit01/Assingment01/Deven
 open file02.txt
 cd
  cd SoftDev1
