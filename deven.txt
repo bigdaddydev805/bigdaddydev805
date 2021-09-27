@@ -12,7 +12,7 @@ sudo mv /Users/bigdaddydev/SoftDev1/Unit01/file02.txt /Users/bigdaddydev/SoftDev
 open file02.txt
 cd
  cd SoftDev1
- cd Unit01
+ cd Unit02
 rm -r /Users/bigdaddydev/SoftDev1/Unit01/Assingment01
 
  
